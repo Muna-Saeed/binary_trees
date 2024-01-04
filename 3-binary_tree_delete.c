@@ -4,7 +4,7 @@
  * binary_tree_delete - function name
  * @tree: the entire tree
  */
-void binary_tree_delete(binary_tree_t *tree) 
+void binary_tree_delete(binary_tree_t *tree)
 {
 	if (tree == NULL)
 		return;
